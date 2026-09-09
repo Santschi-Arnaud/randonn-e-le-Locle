@@ -1,0 +1,16 @@
+# Données brutes et caches d'API (régénérables en relançant randonnee.py)
+*_bruts.json
+noms_parkings.json
+elevations_itineraires.json
+sentiers_officiels_extraits/
+
+# Carte générée (sortie du script, pas du code source)
+randonnee.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
